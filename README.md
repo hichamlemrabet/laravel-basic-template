@@ -2,7 +2,7 @@
 
 ## 1) Clone
 -> Open a cmd in a folder <br>
--> write: git clone https://github.com/hichamlemrabet/laravel_basic_template.git folderClone (name of folder)
+-> write: git clone https://github.com/hichamlemrabet/laravel_basic_template.git folderClone (you can choose name of folder)
 
 ## 2) Setup Composer Dependencies 
 -> write: cd folderClone <br>
